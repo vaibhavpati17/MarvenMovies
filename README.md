@@ -65,7 +65,7 @@ MavenMovies-Data-Analysis/
 ## 📌 Queries & Key Outcomes
 
 1. **Customer Information**  
-   ![Customer Info](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/email.png)
+   ![Customer Info](images/EMAIL_ID_LIST.png)
 
 2. **Count of Movies with Rental Rate of $0.99**  
    ![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
