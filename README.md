@@ -1,12 +1,12 @@
 # 🎬 Maven Movies Data Analysis:  Optimizing Rentals and Customer   Engagement
 
 <p align="center">
-  <img src="images/maven movies.png" alt="maven movies" width="850">
+  <img src="images/marvenmoviepic.png" alt="maven movies" width="850">
 </p>
 
 ---
 ## 📌 Project Overview
-This project analyzes the Maven Movies database using SQL to uncover actionable insights that support smarter decision-making. By performing exploratory data analysis (EDA), examining the schema, and answering critical business queries, it highlights opportunities to improve operations, optimize inventory management, and strengthen marketing strategies, ultimately enabling data-driven growth in the rental business.
+This project uses SQL to analyze the Maven Movies database, aiming to find practical insights for better business decisions. Through exploratory data analysis (EDA) and a review of the database structure, it answers key business questions. The results will reveal opportunities to enhance daily operations, optimize inventory, and refine marketing strategies to achieve data-driven growth in the movie rental business.
 
 ---
 
